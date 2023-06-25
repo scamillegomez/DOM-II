@@ -1,7 +1,5 @@
 import './less/index.less'
 
-// Your code goes here!
-
 const headerText = document.querySelector('.logo-heading');
 
 // event #1
